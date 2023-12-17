@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iBook/static/css/main.87ab02da.css",
+    "main.js": "/iBook/static/js/main.460f5c3a.js",
+    "static/js/787.a0fc65cc.chunk.js": "/iBook/static/js/787.a0fc65cc.chunk.js",
+    "index.html": "/iBook/index.html",
+    "main.87ab02da.css.map": "/iBook/static/css/main.87ab02da.css.map",
+    "main.460f5c3a.js.map": "/iBook/static/js/main.460f5c3a.js.map",
+    "787.a0fc65cc.chunk.js.map": "/iBook/static/js/787.a0fc65cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ab02da.css",
+    "static/js/main.460f5c3a.js"
+  ]
+}
